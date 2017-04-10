@@ -9,6 +9,7 @@ public static final  double NUMEROPI=3.14;
         soma();
         if(true==true){
             int j=9;
+            int a=10;
 
         }
         //System.out.println(j);
