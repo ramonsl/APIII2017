@@ -15,7 +15,7 @@ public class ChamarMetodosAula {
             e.printStackTrace();
         }
 
-
+        System.out.println("HI");
 
     }
 }
