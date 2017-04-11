@@ -13,6 +13,7 @@ public class Exercicio4 {
 
         int j = 0;
 
+        
         System.out.println("Digite uma frase para conferir se ela e um palindromo: ");
         frase = tc.next();
 
